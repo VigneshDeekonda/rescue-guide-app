@@ -152,13 +152,6 @@ This project is licensed under the MIT License.
 
 This application is intended to assist in emergencies but should not replace official emergency services. Always contact local authorities directly in life-threatening situations.
 
----
-
-## Contact
-
-For issues or questions, create an issue in this repository.
-
-GitHub: [@raj-khochare](https://github.com/raj-khochare)
 
 ---
 
